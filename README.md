@@ -26,3 +26,10 @@
 |InferSent sentence embeddings|<a href="https://github.com/facebookresearch/InferSent">code</a>|<a href="https://arxiv.org/abs/1705.02364">paper</a>|
 
 
+## Not Categorized
+|Model description|Code|Paper
+|---|---|---|
+|Faiss - library for efficient similarity search and clustering of dense vectors|<a href="https://github.com/facebookresearch/faiss">code</a>|<a href="https://arxiv.org/abs/1702.08734">paper</a>|
+|BPE - implementation of byte pair econding|<a href="https://github.com/rsennrich/subword-nmt">code</a>|<a href="https://arxiv.org/abs/1508.07909">paper</a>|
+
+
