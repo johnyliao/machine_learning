@@ -14,6 +14,11 @@
 |---|---|---|
 |ParlAI is a framework for dialogue AI research|<a href="https://github.com/facebookresearch/ParlAI">code</a>|<a href="https://arxiv.org/abs/1705.06476">paper</a>|
 
+## NLP
+|Model description|Code|Paper
+|---|---|---|
+|PyText is a deep-learning based NLP modeling framework|<a href="https://github.com/facebookresearch/pytext">code</a>|<a href="https://pytext-pytext.readthedocs-hosted.com/en/latest/">documentation</a>|
+
 
 ## Pretrained Models
 |Model description|Code|Paper
