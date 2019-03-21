@@ -27,6 +27,13 @@
 |Universal Sentence Encoder|<a href="https://tfhub.dev/google/universal-sentence-encoder/2">code</a>|<a href="https://arxiv.org/abs/1803.11175">paper</a>|
 |InferSent sentence embeddings|<a href="https://github.com/facebookresearch/InferSent">code</a>|<a href="https://arxiv.org/abs/1705.02364">paper</a>|
 
+## Search/Information Retrieval
+|Model description|Code|Paper
+|---|---|---|
+|Co-PACRR|<a href="https://github.com/khui/copacrr">code</a>|<a href="https://arxiv.org/pdf/1706.10192.pdf">paper</a>|
+
+
+
 ## Word Embedding
 |Model description|Code|Paper
 |---|---|---|
