@@ -1,8 +1,5 @@
 # My Machine Learning Notes
 
-<!--
-|Placeholder|<a href="">code</a>|<a href="">paper</a>|
--->
 
 ## Classifiers
 |Model description|Code|Paper
@@ -30,6 +27,14 @@
 |Universal Sentence Encoder|<a href="https://tfhub.dev/google/universal-sentence-encoder/2">code</a>|<a href="https://arxiv.org/abs/1803.11175">paper</a>|
 |InferSent sentence embeddings|<a href="https://github.com/facebookresearch/InferSent">code</a>|<a href="https://arxiv.org/abs/1705.02364">paper</a>|
 
+## Word Embedding
+|Model description|Code|Paper
+|---|---|---|
+|Classical word2vec|<a href="https://github.com/tmikolov/word2vec">code</a>|<a href="https://arxiv.org/abs/1301.3781">paper</a>|
+|GloVe: Global Vectors for Word Representation|<a href="https://github.com/stanfordnlp/GloVe">code</a>|<a href="https://nlp.stanford.edu/pubs/glove.pdf">paper</a>|
+|fastText - library efficient learning of word representations and sentence classification|<a href="https://github.com/facebookresearch/fastText">code</a>|<a href="https://arxiv.org/abs/1607.04606">Enriching Word Vectors with Subword Information</a><br/><a href="https://arxiv.org/abs/1607.01759">Bag of Tricks for Efficient Text Classification</a><br/><a href="https://arxiv.org/abs/1612.03651">FastText.zip: Compressing text classification models</a>|
+
+
 
 ## Not Categorized
 |Model description|Code|Paper
@@ -38,3 +43,6 @@
 |BPE - implementation of byte pair econding|<a href="https://github.com/rsennrich/subword-nmt">code</a>|<a href="https://arxiv.org/abs/1508.07909">paper</a>|
 
 
+<!--
+|Placeholder|<a href="">code</a>|<a href="">paper</a>|
+-->
