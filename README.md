@@ -4,6 +4,17 @@
 |Placeholder|<a href="">code</a>|<a href="">paper</a>|
 -->
 
+## Classifiers
+|Model description|Code|Paper
+|---|---|---|
+|Convolutional Neural Networks for Sentence Classification|<a href="https://github.com/yoonkim/CNN_sentence">code</a>|<a href="http://arxiv.org/abs/1408.5882">paper</a>|
+
+## Chatbots, QA & Dialogue
+|Model description|Code|Paper
+|---|---|---|
+|ParlAI is a framework for dialogue AI research|<a href="https://github.com/facebookresearch/ParlAI">code</a>|<a href="https://arxiv.org/abs/1705.06476">paper</a>|
+
+
 ## Pretrained Models
 |Model description|Code|Paper
 |---|---|---|
@@ -14,8 +25,4 @@
 |Universal Sentence Encoder|<a href="https://tfhub.dev/google/universal-sentence-encoder/2">code</a>|<a href="https://arxiv.org/abs/1803.11175">paper</a>|
 |InferSent sentence embeddings|<a href="https://github.com/facebookresearch/InferSent">code</a>|<a href="https://arxiv.org/abs/1705.02364">paper</a>|
 
-## Classifiers
-|Model description|Code|Paper
-|---|---|---|
-|Convolutional Neural Networks for Sentence Classification|<a href="https://github.com/yoonkim/CNN_sentence">code</a>|<a href="http://arxiv.org/abs/1408.5882">paper</a>|
 
