@@ -47,7 +47,7 @@
 |---|---|---|
 |Facebook AI Similarity Search (faiss) |<a href="https://github.com/facebookresearch/faiss">code</a>|<a href="https://arxiv.org/abs/1702.08734">paper</a>|
 |BPE - implementation of byte pair econding|<a href="https://github.com/rsennrich/subword-nmt">code</a>|<a href="https://arxiv.org/abs/1508.07909">paper</a>|
-
+|StyleGAN|<a href="https://github.com/NVlabs/stylegan">code</a>|<a href="https://arxiv.org/abs/1812.04948">paper</a>|
 
 <!--
 |Placeholder|<a href="">code</a>|<a href="">paper</a>|
