@@ -43,13 +43,18 @@
 
 
 ## Not Categorized
-|Model description|Code|Paper
+|Model description|Code|Paper|
 |---|---|---|
 |Facebook AI Similarity Search (faiss) |<a href="https://github.com/facebookresearch/faiss">code</a>|<a href="https://arxiv.org/abs/1702.08734">paper</a>|
 |BPE - implementation of byte pair econding|<a href="https://github.com/rsennrich/subword-nmt">code</a>|<a href="https://arxiv.org/abs/1508.07909">paper</a>|
 |StyleGAN|<a href="https://github.com/NVlabs/stylegan">code</a>|<a href="https://arxiv.org/abs/1812.04948">paper</a>|
 |Efficient Generation and Processing of Word Co-occurrence Networks Using corpus2graph|<a href="https://github.com/zzcoolj/corpus2graph">code</a>|<a href="https://aclweb.org/anthology/W18-1702">paper</a>|
 
+## Papers without code
+|Model description|Paper|
+|---|---|
+|Personalized Online Spell Correction for Personal Search|<a href="https://ai.google/research/pubs/pub47869.pdf">paper</a>|
 <!--
 |Placeholder|<a href="">code</a>|<a href="">paper</a>|
+|Placeholder|<a href="">paper</a>|
 -->
