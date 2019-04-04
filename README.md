@@ -41,7 +41,7 @@
 |fastText|<a href="https://github.com/facebookresearch/fastText">code</a>|* <a href="https://arxiv.org/abs/1607.04606">Enriching Word Vectors with Subword Information</a><br/>* <a href="https://arxiv.org/abs/1607.01759">Bag of Tricks for Efficient Text Classification</a><br/>* <a href="https://arxiv.org/abs/1612.03651">FastText.zip: Compressing text classification models</a>|
 
 ## Model Deployment
-|Model description|Paper|
+|Framework description|Paper|
 |---|---|
 |Clipper: A Low-Latency Online Prediction Serving System|<a href="https://www.usenix.org/system/files/conference/nsdi17/nsdi17-crankshaw.pdf">paper</a>|
 |ItemSuggest: A Data Management Platform for Machine Learned Ranking Services|<a href="https://ai.google/research/pubs/pub47850.pdf">paper</a>|
