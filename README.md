@@ -41,11 +41,11 @@
 |fastText|<a href="https://github.com/facebookresearch/fastText">code</a>|* <a href="https://arxiv.org/abs/1607.04606">Enriching Word Vectors with Subword Information</a><br/>* <a href="https://arxiv.org/abs/1607.01759">Bag of Tricks for Efficient Text Classification</a><br/>* <a href="https://arxiv.org/abs/1612.03651">FastText.zip: Compressing text classification models</a>|
 
 ## Model Deployment
-|Framework description|Paper|
-|---|---|
-|Clipper: A Low-Latency Online Prediction Serving System|<a href="https://www.usenix.org/system/files/conference/nsdi17/nsdi17-crankshaw.pdf">paper</a>|
-|ItemSuggest: A Data Management Platform for Machine Learned Ranking Services|<a href="https://ai.google/research/pubs/pub47850.pdf">paper</a>|
-|A Multiworld Testing Decision Service|<a href="https://pdfs.semanticscholar.org/e71f/6ce292c307b95d4845bfcc542b9a08b3baa0.pdf">paper</a>|
+|Framework description|Paper|Software|
+|---|---|---|
+|Clipper: A Low-Latency Online Prediction Serving System|<a href="https://www.usenix.org/system/files/conference/nsdi17/nsdi17-crankshaw.pdf">paper</a>|<a href="http://clipper.ai/about/">clipper.ai</a>|
+|ItemSuggest: A Data Management Platform for Machine Learned Ranking Services|<a href="https://ai.google/research/pubs/pub47850.pdf">paper</a>|<a href="https://github.com/Microsoft/mwt-ds">MWT Decision Service repo</a>|
+|A Multiworld Testing Decision Service|<a href="https://pdfs.semanticscholar.org/e71f/6ce292c307b95d4845bfcc542b9a08b3baa0.pdf">paper</a>||
 
 ## Not Categorized
 |Model description|Code|Paper|
