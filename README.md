@@ -16,6 +16,10 @@
 |---|---|---|
 |PyText is a deep-learning based NLP modeling framework|<a href="https://github.com/facebookresearch/pytext">code</a>|<a href="https://pytext-pytext.readthedocs-hosted.com/en/latest/">documentation</a>|
 
+## Node Embeddings
+|Model description|Code|Paper
+|---|---|---|
+|DeepWalk: Online Learning of Social Representations|<a href="https://github.com/phanein/deepwalk">code</a>|<a href="https://arxiv.org/abs/1403.6652">paper</a>|
 
 ## Pretrained Models
 |Model description|Code|Paper
