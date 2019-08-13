@@ -63,9 +63,7 @@
 |Model description|Paper|
 |---|---|
 |Personalized Online Spell Correction for Personal Search|<a href="https://ai.google/research/pubs/pub47869.pdf">paper</a>|
-<!--
-|Placeholder|<a href="">code</a>|<a href="">paper</a>|
-|Placeholder|<a href="">paper</a>|
+
 
 ## Python Libraries
 |Library|URL|Description|
@@ -75,5 +73,7 @@
 |PyTorch Geometric|https://github.com/rusty1s/pytorch_geometric|Geometric deep learning extension library for PyTorch|
 |DPPy|https://github.com/guilgautier/DPPy|Python library for sampling Determinantal Point Processes |
 
-
+<!--
+|Placeholder|<a href="">code</a>|<a href="">paper</a>|
+|Placeholder|<a href="">paper</a>|
 -->
