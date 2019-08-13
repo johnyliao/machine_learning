@@ -66,14 +66,15 @@
 
 
 ## Python Libraries
-|Library|URL|Description|
-|---|---|---|
-|CHAMELEON|https://github.com/gabrielspmoreira/chameleon_recsys|A Deep Learning Meta-Architecture for News Recommender Systems|
-|DGL|https://www.dgl.ai/|Deep Graph Library|
-|PyTorch Geometric|https://github.com/rusty1s/pytorch_geometric|Geometric deep learning extension library for PyTorch|
-|DPPy|https://github.com/guilgautier/DPPy|Python library for sampling Determinantal Point Processes |
+|Library|Description|
+|---|---|
+|<a href="https://github.com/gabrielspmoreira/chameleon_recsys">CHAMELEON</a>|A Deep Learning Meta-Architecture for News Recommender Systems|
+|<a href="https://www.dgl.ai/">DGL</a>|Deep Graph Library|
+|<a href="https://github.com/rusty1s/pytorch_geometric">PyTorch Geometric</a>|Geometric deep learning extension library for PyTorch|
+|<a href="https://github.com/guilgautier/DPPy">DPPy</a>|Python library for sampling Determinantal Point Processes|
 
 <!--
 |Placeholder|<a href="">code</a>|<a href="">paper</a>|
 |Placeholder|<a href="">paper</a>|
+|<a href="">paper</a>|TBD|
 -->
