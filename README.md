@@ -58,7 +58,6 @@
 |BPE - implementation of byte pair econding|<a href="https://github.com/rsennrich/subword-nmt">code</a>|<a href="https://arxiv.org/abs/1508.07909">paper</a>|
 |StyleGAN|<a href="https://github.com/NVlabs/stylegan">code</a>|<a href="https://arxiv.org/abs/1812.04948">paper</a>|
 |Efficient Generation and Processing of Word Co-occurrence Networks Using corpus2graph|<a href="https://github.com/zzcoolj/corpus2graph">code</a>|<a href="https://aclweb.org/anthology/W18-1702">paper</a>|
-
 ## Papers without code
 |Model description|Paper|
 |---|---|
@@ -82,6 +81,7 @@
 |<a href="https://github.com/neurodata/graspy">GraSPy</a>|package for graph statistical algorithms.|
 |<a href="https://github.com/scikit-learn-contrib/imbalanced-learn">imbalanced-learn</a>|re-sampling techniques|
 |<a href="https://github.com/neurodata/mgcpy">mgcpy</a>|tools for independence testing using multiscale graph correlation|
+|<a href="http://nlp_architect.nervanasys.com/">NLP Architect|A Deep Learning NLP/NLU library by Intel AI Lab|
 |<a href="http://nimfa.biolab.si/">Nimfa</a>|Python library for nonnegative matrix factorization|
 |<a href="https://github.com/pymc-learn/pymc-learn">Pymc-learn</a>|Practical Probabilistic Machine Learning in Python|
 |<a href="https://github.com/yzhao062/pyod">PyOD</a>|Python toolkit for detecting outlying objects in multivariate data|
@@ -89,6 +89,11 @@
 |<a href="https://scikit-image.org/">scikit-image</a>|algorithms for image processing|
 |<a href="https://github.com/scikit-multilearn/scikit-multilearn">scikit-multilearn</a>|multi-label learning |
 |<a href="https://x-datainitiative.github.io/tick/">tick</a>|statistical learning for time dependent systems|
+
+## Aggregated Repos
+|Repo Description|Repo|
+|NLP-progress - track the progress in NLP|http://nlpprogress.com/english/named_entity_recognition.html|
+
 
 <!--
 
