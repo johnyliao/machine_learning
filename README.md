@@ -15,7 +15,6 @@
 |Model description|Code|Paper
 |---|---|---|
 |PyText is a deep-learning based NLP modeling framework|<a href="https://github.com/facebookresearch/pytext">code</a>|<a href="https://pytext-pytext.readthedocs-hosted.com/en/latest/">documentation</a>|
-
 |Espresso: A Fast End-to-end Neural Speech Recognition Toolkit|<a href="https://github.com/freewym/espresso">code</a>|<a href="https://arxiv.org/abs/1909.08723v2">documentation</a>|
 
 
