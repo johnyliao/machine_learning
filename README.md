@@ -11,6 +11,14 @@
 |---|---|---|
 |ParlAI is a framework for dialogue AI research|<a href="https://github.com/facebookresearch/ParlAI">code</a>|<a href="https://arxiv.org/abs/1705.06476">paper</a>|
 
+## Knowledge Graph Embedding
+|Model description|Code|Paper
+|---|---|---|
+|A three-way model for collective learning on multi-relational data
+|<a href="https://github.com/mnick/scikit-tensor">code</a>|<a href="http://www.icml-2011.org/papers/438_icmlpaper.pdf">paper</a>|
+|Placeholder|<a href="">code</a>|<a href="">paper</a>|
+
+
 ## NLP
 |Model description|Code|Paper
 |---|---|---|
