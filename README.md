@@ -20,7 +20,7 @@
 
 ## Multi-Label Classification
 |---|---|---|
-|RBRL - Joint Ranking SVM and Binary Relevance with Robust Low-Rank Learning for Multi-Label Classification|a href="https://github.com/GuoqiangWoodrowWu/RBRL">code</a>|<a href="https://arxiv.org/abs/1911.01658v1/">paper</a>|
+|RBRL - Joint Ranking SVM and Binary Relevance with Robust Low-Rank Learning for Multi-Label Classification|<a href="https://github.com/GuoqiangWoodrowWu/RBRL">code</a>|<a href="https://arxiv.org/abs/1911.01658v1/">paper</a>|
 
 
 ## NLP
