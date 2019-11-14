@@ -18,6 +18,10 @@
 |<a href="https://github.com/mnick/scikit-tensor">code</a>|<a href="http://www.icml-2011.org/papers/438_icmlpaper.pdf">paper</a>|
 |Placeholder|<a href="">code</a>|<a href="">paper</a>|
 
+## Multi-Label Classification
+|---|---|---|
+|RBRL - Joint Ranking SVM and Binary Relevance with Robust Low-Rank Learning for Multi-Label Classification|a href="https://github.com/GuoqiangWoodrowWu/RBRL">code</a>|<a href="https://arxiv.org/abs/1911.01658v1/">paper</a>|
+
 
 ## NLP
 |Model description|Code|Paper
@@ -69,6 +73,7 @@
 |BPE - implementation of byte pair econding|<a href="https://github.com/rsennrich/subword-nmt">code</a>|<a href="https://arxiv.org/abs/1508.07909">paper</a>|
 |StyleGAN|<a href="https://github.com/NVlabs/stylegan">code</a>|<a href="https://arxiv.org/abs/1812.04948">paper</a>|
 |Efficient Generation and Processing of Word Co-occurrence Networks Using corpus2graph|<a href="https://github.com/zzcoolj/corpus2graph">code</a>|<a href="https://aclweb.org/anthology/W18-1702">paper</a>|
+
 ## Papers without code
 |Model description|Paper|
 |---|---|
