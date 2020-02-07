@@ -27,5 +27,6 @@ To keep track of python libraries that I've used
 |sh||
 |stanfordnlp||
 |statsmodel||
+|tmtookit|text mining and topic modeling|
 |tqdm||
 |xlrd||
