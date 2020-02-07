@@ -92,6 +92,7 @@
 |<a href="http://edwardlib.org/">Edward </a>|probabilistic modeling, inference, and criticism|
 |<a href="https://github.com/guilgautier/DPPy">DPPy</a>|Python library for sampling Determinantal Point Processes|
 |<a href="https://github.com/palash1992/DynamicGEM">DynamicGEM</a>|Dynamic graph to vector embedding|
+|<a href="https://github.com/baidu/Familia/blob/master/README.EN.md">Familia|Topic modeling|
 |<a href="https://github.com/ibayer/fastFM">fastFM</a>|Library for Factorization Machines|
 |<a href="https://github.com/awslabs/gluon-ts">GluonTS </a>| Probabilistic Time Series Modeling in Python |
 |<a href="https://github.com/ysig/GraKeL">GraKeL</a>|A library for graph kernels|
