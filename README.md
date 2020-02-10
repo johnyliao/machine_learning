@@ -51,6 +51,7 @@
 |Model description|Code|Paper
 |---|---|---|
 |DOLDA|<a href="https://github.com/lejon/DiagonalOrthantLDA">code</a>|<a href="https://arxiv.org/abs/1602.00260">paper</a>|
+|Familia: A Toolkit for Industrial Topic Modeling|<a href="https://github.com/baidu/Familia">code</a>|<a href="https://arxiv.org/abs/1808.03733">paper</a>|
 
 
 
