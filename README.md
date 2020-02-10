@@ -47,6 +47,13 @@
 |---|---|---|
 |Co-PACRR|<a href="https://github.com/khui/copacrr">code</a>|<a href="https://arxiv.org/pdf/1706.10192.pdf">paper</a>|
 
+## Topic Modeling
+|Model description|Code|Paper
+|---|---|---|
+|DOLDA|<a href="https://github.com/lejon/DiagonalOrthantLDA">code</a>|<a href="https://arxiv.org/abs/1602.00260">paper</a>|
+
+
+
 
 ## Word Embedding
 |Model description|Code|Paper
