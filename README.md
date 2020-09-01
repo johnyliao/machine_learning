@@ -96,9 +96,11 @@
 |<a href="https://github.com/ibayer/fastFM">fastFM</a>|Library for Factorization Machines|
 |<a href="https://github.com/awslabs/gluon-ts">GluonTS </a>| Probabilistic Time Series Modeling in Python |
 |<a href="https://github.com/ysig/GraKeL">GraKeL</a>|A library for graph kernels|
+|<a href="https://pypi.org/project/graphrole/">GraphRole</a>|Automatic feature extraction and node role assignment for transfer learning on graphs|  
 |<a href="https://github.com/neurodata/graspy">GraSPy</a>|package for graph statistical algorithms.|
 |<a href="https://github.com/scikit-learn-contrib/imbalanced-learn">imbalanced-learn</a>|re-sampling techniques|
 |<a href="https://github.com/neurodata/mgcpy">mgcpy</a>|tools for independence testing using multiscale graph correlation|
+|<a href="https://networkit.github.io/">NetworKit</a>|Large-Scale Network Analysis — Interactive and Fast!|
 |<a href="http://nlp_architect.nervanasys.com/">NLP Architect|A Deep Learning NLP/NLU library by Intel AI Lab|
 |<a href="http://nimfa.biolab.si/">Nimfa</a>|Python library for nonnegative matrix factorization|
 |<a href="https://github.com/pymc-learn/pymc-learn">Pymc-learn</a>|Practical Probabilistic Machine Learning in Python|
